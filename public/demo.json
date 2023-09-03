@@ -1,0 +1,39 @@
+{
+    "Cricket": {
+      "team1": "Ramanujan",
+      "team2": "Raman",
+      "team1runs": 100,
+      "team2runs": 99,
+      "team1Wickets": 9,
+      "team2Wickets": 8,
+      "team1overs": 20,
+      "team2overs": 20,
+      "isMatchStarted": true,
+      "isFirstInningsOver": true,
+      "isMatchOver": true
+    },
+    "Football": {
+        "team1": "Ramanujan",
+        "team2": "Raman",
+        "team1Goals": 3,
+        "team2Goals": 4,
+        "isFootballMatchStarted": true,
+        "FootballFullTime" : true
+    },
+    "Badminton":{
+      "team1": "Ramanujan",
+      "team2": "Raman",
+      "team1set1Points": 20,
+      "team2set1Points": 22,
+      "team1set2Points": 22,
+      "team2set2Points": 20,
+      "team1set3Points": 2,
+      "team2set3Points": 2,
+      "team1Points" : 1,
+      "team2Points" : 1,
+      "isMatchStarted" : true,
+      "isSet1Over" : true,
+      "isSet2Over" : true,
+      "isMatchEnded" : false
+    }
+}
