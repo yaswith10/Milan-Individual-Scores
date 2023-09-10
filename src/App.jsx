@@ -1,21 +1,12 @@
-import { useState } from 'react'
-import { CricketScores } from './CricketScores'
-import { FootballScore } from './FootballScore'
-import { BadmintonScore } from './BadmintonScore'
+import React from 'react'
+
+import { LiveScores } from './LiveScores'
 
 function App() {
 
   return (
     <>
-      <CricketScores/>
-      <br />
-      <hr />
-      <br />
-      <FootballScore/>
-      <br />
-      <hr/>
-      <br />
-      <BadmintonScore/>
+      <LiveScores/>
     </>
   )
 }
